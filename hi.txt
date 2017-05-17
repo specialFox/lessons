@@ -1,1 +1,2 @@
-print("hi")
+sdprint("hi")
+sdprint("hi erer")
